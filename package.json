@@ -1,5 +1,7 @@
 {
   "private": true,
+  "name": "test-custom-scripts",
+  "version": "1.0.0",
   "scripts": {
     "build": "node packages/react-scripts/scripts/build.js",
     "changelog": "lerna-changelog",
